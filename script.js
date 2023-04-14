@@ -1,1 +1,1 @@
-prompt ("What city are you in")
+prompt("What city are you in?")
